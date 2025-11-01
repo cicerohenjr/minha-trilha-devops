@@ -1,0 +1,1 @@
+Módulo 5, Aula 1: Criei minha primeira instância EC2 (t2.micro) na AWS usando Amazon Linux. Aprendi a criar um Par de Chaves (.pem) e descobri a diferença entre os gerenciadores de pacotes 'apt' (Ubuntu) e 'yum' (Amazon Linux).
