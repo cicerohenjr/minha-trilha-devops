@@ -1,0 +1,1 @@
+Curso 2, Aula 5: Aprendi a gerir permissões. Usei `chmod 755` (rwxr-xr-x) para tornar o script executável. Entendi a Notação Octal (4=r, 2=w, 1=x) e a Simbólica (u+x). Finalmente, executei o script com `./monitoramento-logs.sh`.
