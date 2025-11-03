@@ -1,0 +1,1 @@
+Curso 2, Aula 12: Revisão (Faça como eu fiz). Pratiquei o ciclo completo do Módulo 1: Criar script (vim, #!), permissões (chmod 755), gestão de utilizadores (adduser/addgroup/usermod), gestão de propriedade (chown) e teste de colaboração (su -).
