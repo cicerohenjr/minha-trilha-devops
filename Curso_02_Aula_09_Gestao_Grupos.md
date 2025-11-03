@@ -1,0 +1,1 @@
+Curso 2, Aula 9: Aprendi a gerir utilizadores e grupos. Usei `adduser/useradd`, `addgroup`, `usermod -aG` (para adicionar utilizador ao grupo) e `chown -R :grupo` (para mudar o dono do grupo recursivamente). Pratiquei com `su -` para testar as permissões.
