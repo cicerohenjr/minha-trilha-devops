@@ -1,0 +1,1 @@
+Curso 2, Módulo 2, Aula 8: Aprendi um truque: usar o operador `>` sozinho (ex: `> ficheiro.txt`) para criar um ficheiro vazio, como uma alternativa ao `touch`. Também aprendi que isto apaga o conteúdo se o ficheiro já existir.
