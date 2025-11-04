@@ -1,0 +1,1 @@
+Curso 2, Módulo 3, Aula 7: Aprendi a comparar ficheiros com `diff`. Entendi a saída: `<` (original), `>` (novo) e as ações (a=add, c=change, d=delete). Usei-o para comparar o log original com o meu ficheiro `.unico` processado.
