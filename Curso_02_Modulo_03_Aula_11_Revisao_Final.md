@@ -1,0 +1,1 @@
+Curso 2, Módulo 3 (Aula 11): O que aprendemos? Revisei todo o Módulo 3: `sort` (com `-r` e `-o`), `uniq` (para remover duplicatas de ficheiros ordenados) e `diff` (para comparar). Aprendi a usar nomes dinâmicos em scripts.
