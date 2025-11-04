@@ -1,0 +1,1 @@
+Curso 2, Módulo 3, Aula 2: Aprendi a ordenar ficheiros com `sort`. Usei a flag `-o` (output) para salvar a saída (ex: `sort ficheiro -o ficheiro`) e adicionei este passo ao *script* para ordenar os *logs*.
