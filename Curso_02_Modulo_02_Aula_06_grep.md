@@ -1,0 +1,1 @@
+Curso 2, Módulo 2, Aula 6: Aprendi a filtrar o conteúdo de ficheiros com `grep` (ex: `grep "ERROR" log.txt`) e a salvar a saída com `>` (redirecionamento). Integrei o `grep` no loop `while` do script e aprendi a sintaxe de variáveis `"${arquivo}.filtrado"`.
