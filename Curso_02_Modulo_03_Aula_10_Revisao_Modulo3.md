@@ -1,0 +1,1 @@
+Curso 2, Módulo 3, Aula 10: Revisão (Faça como eu fiz). Pratiquei o ciclo completo do Módulo 3: `sort -o` (para ordenar), `uniq >` (para remover duplicatas) e `diff` (para comparar o original com o resultado final).
