@@ -1,0 +1,1 @@
+Curso 2, Módulo 3, Aula 4: Aprendi sobre a Tabela ASCII. Entendi por que `sort` coloca Números e letras Maiúsculas ANTES de minúsculas (ex: "Zebra" antes de "apple"), pois a ordem é numérica (A=65, a=97).
