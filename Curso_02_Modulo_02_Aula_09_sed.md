@@ -1,0 +1,1 @@
+Curso 2, Módulo 2, Aula 9: Aprendi a modificar ficheiros. Usei ">>" (append) para adicionar novos logs (SENSITIVE_DATA) sem apagar os "ERROR". Usei o `sed -i "s/padrão.*/REDACTED/g"` para ocultar dados sensíveis.
