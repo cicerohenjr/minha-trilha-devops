@@ -1,0 +1,1 @@
+Curso 2, Módulo 3, Aula 6: Aprendi a remover linhas duplicadas com `uniq`. Adicionei `uniq "${arquivo}.filtrado" > "${arquivo}.unico"` ao *script*. Lembrei-me que o `uniq` só funciona em ficheiros pré-ordenados.
