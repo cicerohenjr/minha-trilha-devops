@@ -1,0 +1,1 @@
+Curso 2, Módulo 2, Aula 5: Aprendi comandos alternativos de busca. "locate" (para busca rápida em DB), "which" (para achar executáveis no PATH), "whereis" (achar binário e manual) e o truque "ls | grep".
