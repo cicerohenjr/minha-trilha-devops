@@ -1,0 +1,1 @@
+Curso 2, Módulo 3, Aula 9: Aprendi os usos avançados do `diff`. Pratiquei `-r` (recursivo para diretórios), `-u` (formato unificado/patch), `-y` (lado a lado) e as flags para ignorar diferenças (`-i`, `-w`).
