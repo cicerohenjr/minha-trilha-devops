@@ -1,0 +1,1 @@
+Curso 2, Módulo 2 (Aula 11): O que aprendemos? Revisei todo o Módulo 2: `find` (para procurar ficheiros), `|` (pipe), `while read` (para loops), `IFS` (para nomes com espaços), `grep` (para filtrar conteúdo), `>`/`>>` (redirecionamento) e `sed -i` (para substituir texto).
