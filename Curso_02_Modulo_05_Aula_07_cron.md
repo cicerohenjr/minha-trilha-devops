@@ -1,0 +1,1 @@
+Curso 2, Módulo 5, Aula 7: Aprendi a automatizar tarefas com `cron`. Usei `crontab -e` (editar) e `crontab -l` (listar). Entendi a sintaxe de 6 colunas (m h dom mon dow command) e agendei o script (ex: `0 2 * * * /caminho/script.sh`).
