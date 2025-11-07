@@ -1,0 +1,1 @@
+Curso 2, Módulo 4, Aula 11: Aprendi a teoria do `if`. Entendi a estrutura `if [ cond ]; then ... elif ... else ... fi`. Também aprendi os operadores de comparação para números (ex: `-gt`, `-eq`) e para strings (ex: `=`, `!=`).
