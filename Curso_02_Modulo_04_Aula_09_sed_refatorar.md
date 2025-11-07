@@ -1,0 +1,1 @@
+Curso 2, Módulo 4, Aula 9: Refatorei o script! Usei `sed -i "s/procurar/substituir/"` para atualizar o nome do ficheiro de log (adicionando `$ARQUIVO_DIR` e `$(date +%F)`). Aprendi a "escapar" (escapar) caracteres especiais como a barra (`\/`).
