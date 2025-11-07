@@ -1,0 +1,1 @@
+Curso 2, Módulo 5, Aula 5: Aprendi as opções avançadas do `tar`. Revisei -c (criar), -x (extrair), -t (listar) e as flags de compressão (-z). Aprendi também as flags avançadas `-r` (adicionar) e `--delete`.
