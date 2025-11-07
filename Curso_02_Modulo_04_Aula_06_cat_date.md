@@ -1,0 +1,1 @@
+Curso 2, Módulo 4, Aula 6: Aprendi a concatenar ficheiros. Usei `cat ${ficheiro} >> ${relatorio}` para juntar todos os logs `.unico` num "ficheiro-mestre". Também usei `mkdir -p` e `$(date +%F)` para criar nomes de ficheiros dinâmicos com a data.
