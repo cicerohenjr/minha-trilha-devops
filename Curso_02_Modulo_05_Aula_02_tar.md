@@ -1,0 +1,1 @@
+Curso 2, Módulo 5, Aula 2: Aprendi a compactar ficheiros com `tar -czf`. Adicionei ao script o padrão de diretório temporário: `mkdir`, `mv`, `tar -C $TEMP_DIR .` (para criar um arquivo limpo) e `rm -r` (para limpar).
