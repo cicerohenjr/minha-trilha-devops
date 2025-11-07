@@ -1,0 +1,1 @@
+Curso 2, Módulo 4 (Aula 15): O que aprendemos? Revisei todo o Módulo 4: `wc`, `$(...)`, `basename`, `mkdir -p`, `date`, e a estrutura `if/elif/else` para criar um script de análise e relatório completo.
