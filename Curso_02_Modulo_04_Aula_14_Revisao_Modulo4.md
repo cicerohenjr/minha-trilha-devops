@@ -1,0 +1,1 @@
+Curso 2, Módulo 4, Aula 14: Revisão (Faça como eu fiz). Pratiquei o ciclo completo do Módulo 4: extrair métricas (`wc`), salvar relatórios (`echo >>`, `basename`), consolidar logs (`cat >>`, `date`) e adicionar lógica (`if/else` com tags e `sort -k2` final).
