@@ -1,0 +1,1 @@
+Curso 2, Módulo 5, Aula 10: Revisão (Faça como eu fiz). Pratiquei o ciclo completo do Módulo 5: compactar com `tar -czf` (usando o padrão `TEMP_DIR`), listar com `tar -tzvf`, extrair com `tar -xzvf` e verificar o agendamento com `crontab -l`.
