@@ -1,0 +1,1 @@
+Curso 2, Módulo 4, Aula 13: Aprendi a diferença entre `[ ... ]` (antigo) e `[[ ... ]]` (moderno). Entendi por que `[[ ... ]]` é preferido: suporta globbing (como `*frontend*`) e operadores lógicos (`&&`, `||`) e é mais seguro com espaços.
