@@ -1,0 +1,1 @@
+Curso 2, Módulo 4, Aula 10: Aprendi a usar condicionais. Usei `if [[ "$var" == *padrão* ]]; then... fi` para adicionar tags `[FRONTEND]` e `[BACKEND]` com `sed "s/^/TAG /"`. Corrigi a ordenação final (fora do loop) com `sort -k2`.
