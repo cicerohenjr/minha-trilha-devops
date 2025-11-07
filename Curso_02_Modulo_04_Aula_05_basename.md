@@ -1,0 +1,1 @@
+Curso 2, Módulo 4, Aula 5: Aprendi a salvar métricas num ficheiro de relatório. Usei `echo "Stats: $var" >> log-stats.txt` (append) para adicionar ao fim do ficheiro. Usei `basename` para extrair apenas o nome do ficheiro (ex: `arquivo.log`) do caminho completo.
