@@ -1,0 +1,1 @@
+Curso 3, Aula 3: Analisei os logs do sistema Ubuntu. Aprendi a localização e o propósito do `/var/log/syslog` (geral) e do `/var/log/auth.log` (segurança). Pratiquei a leitura com `less` (paginado) e `tail -f` (tempo real).
