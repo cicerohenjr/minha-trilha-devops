@@ -1,0 +1,1 @@
+Curso 3, Aula 10: Aprendi sobre a ferramenta `awk`. Entendi que é uma linguagem de programação completa (com variáveis, loops, regex) para processamento de texto, não apenas para `print`. Pratiquei o `awk` com uma condição (`awk "$2 > 20 {print $0}"`).
