@@ -1,0 +1,1 @@
+Curso 3, Aula 7: Aprendi a fundo sobre Expressões Regulares (Regex). Revisei os metacaracteres: `.` (qualquer), `^` (início), `$` (fim), `*` (0+), `+` (1+), `?` (0 ou 1), `|` (OU), `()` (grupo) e classes como `\d`.
