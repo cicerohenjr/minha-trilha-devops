@@ -1,0 +1,1 @@
+Curso 3, Aula 5: Aprendi a filtrar logs com Regex. Pratiquei o `grep -E` (Expressões Regulares Estendidas) para procurar por múltiplos padrões de uma só vez usando metacaracteres como `|` (OU), `()` (Grupo) e `?` (Opcional).
