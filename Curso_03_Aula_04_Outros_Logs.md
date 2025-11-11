@@ -1,0 +1,1 @@
+Curso 3, Aula 4: Aprendi sobre os outros ficheiros de log em `/var/log/`. Revisei `kern.log` (hardware), `dmesg`/`boot.log` (boot), `faillog`/`lastlog` (segurança), `apt/` (pacotes) e `cron` (agendamento).
