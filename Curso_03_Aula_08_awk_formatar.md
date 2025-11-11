@@ -1,0 +1,1 @@
+Curso 3, Aula 8: Aprendi a formatar logs com `awk`. Usei `grep` para filtrar as linhas e o pipe (`|`) para enviar a saída para o `awk`. Com o `awk "{print $1, $5, ...}"`, selecionei apenas as colunas importantes e redirecionei (`>`) o resultado para um ficheiro.
