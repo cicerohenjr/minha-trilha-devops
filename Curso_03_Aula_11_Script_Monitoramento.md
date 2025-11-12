@@ -1,0 +1,1 @@
+Curso 3, Aula 11: Criei o script `monitoramento-sistema.sh`. Aprendi a usar `mkdir -p` dentro do script para criar pastas de saída e a usar o `chmod +x` (notação simbólica) para o tornar executável. O script combina `grep -E` e `awk` para gerar um relatório.
