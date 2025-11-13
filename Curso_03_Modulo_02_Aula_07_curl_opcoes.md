@@ -1,0 +1,1 @@
+Curso 3, Módulo 2, Aula 7: Aprendi as opções avançadas do `curl`. Revisei `-s` (silent) e `-I` (head). Aprendi novos comandos como `-L` (seguir redirects), `-o` (salvar em ficheiro), `-X POST` (método) e `-w "%{http_code}"` (obter status).
