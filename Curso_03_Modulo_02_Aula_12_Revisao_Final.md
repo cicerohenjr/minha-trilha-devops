@@ -1,0 +1,1 @@
+Curso 3, Módulo 2 (Aula 12): O que aprendemos? Revisei todo o Módulo 2: `ping -c` (rede), `curl -s --head` (aplicação), a lógica de `if ... > /dev/null` (verificar código de saída) e a refatoração do script em `funções`.
