@@ -1,0 +1,1 @@
+Curso 3, Módulo 2, Aula 2: Adicionei monitoramento de rede ao script. Aprendi a usar `ping -c 1 8.8.8.8` e a lógica `if ping ... > /dev/null`, que verifica o código de saída (e não o texto) para registar se a conectividade está ativa.
