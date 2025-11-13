@@ -1,0 +1,1 @@
+Curso 3, Módulo 2, Aula 5: Adicionei monitoramento de aplicações ao script. Aprendi a usar `curl` para verificar a conectividade de um site. Usei `curl -s --head [URL] | grep "HTTP/2 200" > /dev/null` dentro de um `if` para verificar o código de saída do `grep`.
