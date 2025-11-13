@@ -1,0 +1,1 @@
+Curso 3, Módulo 2, Aula 8: Aprendi a refatorar o script com Funções. Usei `function nome() { ... }` para organizar o código em blocos modulares (`monitorar_logs`, `monitorar_rede`). Criei uma função "principal" (`executar_monitoramento`) para chamar as outras.
