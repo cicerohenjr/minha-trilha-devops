@@ -1,0 +1,1 @@
+Curso 3, Módulo 2, Aula 9: Aprendi a usar comentários (`#`) em Bash. A boa prática é explicar o "porquê" (lógica) e não o "como" (o comando óbvio). Também aprendi que nomes de funções autoexplicativos (`verificar_logs()`) evitam a necessidade de comentários.
