@@ -1,0 +1,1 @@
+Curso 3, Módulo 4, Aula 9: Adicionei monitoramento de I/O (Leitura/Escrita) ao script. Aprendi a usar `iostat` e o pipeline `iostat | grep -E "Device|^sd" | awk "{print $1, $2, $3, $4}"` para extrair as métricas de tps, kB_read/s e kB_wrtn/s.
