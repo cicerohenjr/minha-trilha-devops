@@ -1,0 +1,1 @@
+Curso 3, Módulo 4, Aula 8: Finalizei a função `monitorar_hardware`. Adicionei o pipeline de CPU (`top -bn1...`) e refinei a saída do `free -h` (adicionando "Memoria RAM Total" ao `awk`) para maior clareza.
