@@ -1,0 +1,1 @@
+Curso 3, Módulo 4, Aula 6: Adicionei monitoramento de CPU ao script. Aprendi a usar `top -bn1` (modo batch) e um pipeline complexo com `grep`, `sed` (para extrair o % id) e `awk` (para calcular 100 - ociosidade) para obter o uso da CPU.
