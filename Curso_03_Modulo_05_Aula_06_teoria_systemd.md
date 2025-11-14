@@ -1,0 +1,1 @@
+Curso 3, Módulo 5, Aula 6: Aprendi a teoria do `systemd`. Entendi o que é um "serviço" (daemon), as "unidades" (`.service`, `.timer`) e os comandos `systemctl` (start, stop, enable, disable, status) para os gerir.
