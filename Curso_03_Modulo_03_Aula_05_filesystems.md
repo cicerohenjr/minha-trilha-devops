@@ -1,0 +1,1 @@
+Curso 3, Módulo 3, Aula 5: Aprendi o que é um Sistema de Ficheiros (a estrutura que organiza os dados). Entendi a diferença entre os tipos (NTFS, EXT4, APFS, FAT32) e o que são metadados e journaling.
