@@ -1,0 +1,1 @@
+Curso 3, Módulo 5, Aula 7: Revisei a página de referências da documentação oficial do `systemd`. Entendi que é o gestor de sistema (PID 1) e vi os links para aprofundamento (como o "systemd for Administrators").
