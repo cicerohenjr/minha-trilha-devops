@@ -1,0 +1,1 @@
+Curso 3, Módulo 3, Aula 6: Aprendi a verificar o uso de disco de um diretório específico com `du`. Pratiquei as opções `-s` (summarize/resumo) e `-h` (human-readable) para obter o total (ex: `du -sh /home/cicero_hjr`). Adicionei isto ao script de monitoramento.
