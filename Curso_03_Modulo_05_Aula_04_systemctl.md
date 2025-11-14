@@ -1,0 +1,1 @@
+Curso 3, Módulo 5, Aula 4: Aprendi a gerir serviços `systemd`. Pratiquei o ciclo de vida: `daemon-reload` (recarregar), `enable` (habilitar no boot), `start` (iniciar agora), `status` (verificar) e `journalctl -u` (ver logs).
