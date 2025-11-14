@@ -1,0 +1,1 @@
+Curso 3, Módulo 3, Aula 4: Adicionei monitoramento de disco ao script. Criei um pipeline `df -h | grep -v "snapfuse" | awk "$5+0 > 70"` para filtrar partições com uso acima de 70%, ignorando "ruído" e convertendo a percentagem para número (`$5+0`).
