@@ -1,0 +1,1 @@
+Curso 3, Módulo 4, Aula 2: Adicionei monitoramento de RAM ao script. Aprendi o comando `free -h` (human-readable) e a diferença entre Mem (RAM) e Swap (Disco). Usei o pipeline `free -h | grep Mem | awk "{print $2, $3, $4}"` para extrair os dados.
