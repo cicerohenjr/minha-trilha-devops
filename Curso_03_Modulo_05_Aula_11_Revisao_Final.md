@@ -1,0 +1,1 @@
+Curso 3, Módulo 5 (Aula 11): O que aprendemos? Revisei todo o Módulo 5: criar unidades `.service` e `.timer` do `systemd`, e geri-las com `systemctl` (daemon-reload, enable, start, status) e `journalctl`.
