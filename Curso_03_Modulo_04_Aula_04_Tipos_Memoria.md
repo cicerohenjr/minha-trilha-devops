@@ -1,0 +1,1 @@
+Curso 3, Módulo 4, Aula 4: Aprendi a hierarquia de memória. Entendi a diferença entre Cache (super-rápida), RAM (rápida, volátil), SSD/HDD (armazenamento permanente, não volátil) e Memória Virtual (Swap).
