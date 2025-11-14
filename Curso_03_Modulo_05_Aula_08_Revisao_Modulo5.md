@@ -1,0 +1,1 @@
+Curso 3, Módulo 5, Aula 8: Revisão (Faça como eu fiz). Pratiquei o ciclo completo do `systemd`: mover o script, criar `.service` e `.timer`, e usar `systemctl` (daemon-reload, enable, start, status, stop, disable) e `journalctl -u`.
