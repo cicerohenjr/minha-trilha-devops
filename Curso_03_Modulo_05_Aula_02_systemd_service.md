@@ -1,0 +1,1 @@
+Curso 3, Módulo 5, Aula 2: Aprendi a criar um serviço `systemd`. Movi o script para `/usr/local/bin/` e refatorei-o para usar caminhos absolutos. Criei o `monitoramento-sistema.service` (Type=oneshot, ExecStart=...) e o `monitoramento-sistema.timer` (OnCalendar=*:0/15).
