@@ -1,0 +1,1 @@
+Curso 4, Módulo 2, Aula 1: Instalei a ferramenta principal do curso, o Cisco Packet Tracer. Criei uma conta no "Skills For All", inscrevi-me no curso introdutório e fiz o download e a ativação da ferramenta.
