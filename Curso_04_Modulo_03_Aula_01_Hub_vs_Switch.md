@@ -1,0 +1,1 @@
+Curso 4, Módulo 3, Aula 1: Aprendi a diferença entre Hub e Switch. O Hub (burro) usa broadcast. O Switch (inteligente) usa o Protocolo ARP para aprender o Endereço MAC de cada IP e cria um caminho direto (unicast), o que é mais rápido e seguro.
