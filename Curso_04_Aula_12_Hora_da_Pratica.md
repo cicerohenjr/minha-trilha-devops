@@ -1,0 +1,1 @@
+Curso 4, Módulo 1, Aula 12: Hora da Prática. Testei `ping` e `traceroute` contra alura.com.br (local) e www.utwente.nl (Europa). Confirmei que a distância geográfica aumenta a latência (ping mais alto).
