@@ -1,0 +1,1 @@
+Curso 4, Módulo 2, Aula 11: Aprendi sobre os tipos de cabos de rede. Entendi o Cabo Coaxial (antigo, topologia barramento) vs. Cabo de Par Trançado (moderno, RJ-45, Cat 5e/Cat 6) vs. Fibra Ótica (luz, monomodo/multimodo).
