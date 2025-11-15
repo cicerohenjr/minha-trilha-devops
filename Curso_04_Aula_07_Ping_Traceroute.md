@@ -1,0 +1,1 @@
+Curso 4, Módulo 1, Aula 7: Pratiquei os comandos de diagnóstico de rede no terminal. Usei `ping -c 4 [host]` para testar a conectividade e latência (RTT), e `traceroute [host]` (o `tracert` do Linux) para ver a rota (saltos) que o pacote faz.
