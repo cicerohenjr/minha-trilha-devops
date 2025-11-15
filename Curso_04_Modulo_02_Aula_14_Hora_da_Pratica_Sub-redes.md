@@ -1,0 +1,1 @@
+Curso 4, Módulo 2, Aula 14: Hora da Prática. Criei uma rede de 4 PCs e 1 Hub no Packet Tracer. Testei o `ping` com IPs na mesma rede (sucesso) e em redes diferentes (falha), entendendo o conceito de sub-redes e a limitação do Hub.
