@@ -1,0 +1,1 @@
+Curso 4, Módulo 1 (Aula 13): O que aprendemos? Revisei todo o Módulo 1: o que é uma rede (internet), o modelo de 4 camadas (Aplicação, Transporte, Rede, Física), o que são Protocolos e os comandos de diagnóstico `ping` e `traceroute`.
