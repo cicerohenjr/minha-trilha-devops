@@ -1,0 +1,1 @@
+Curso 4, Módulo 1, Aula 2: Aprendi os conceitos de Redes. Entendi que uma rede é um conjunto de "nós" (dispositivos computacionais e de rede) e que a comunicação entre eles é gerida por "Protocolos" (padrões), tal como uma conversa humana.
