@@ -1,0 +1,1 @@
+Curso 4, Módulo 2, Aula 5: Aprendi sobre DNS (Domain Name System), a "agenda telefónica" da internet que mapeia nomes (alura.com.br) para IPs. Pratiquei o comando `nslookup` para fazer estas consultas.
