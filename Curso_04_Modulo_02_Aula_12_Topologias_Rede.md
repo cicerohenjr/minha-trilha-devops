@@ -1,0 +1,1 @@
+Curso 4, Módulo 2, Aula 12: Aprendi sobre Topologias de Rede. Entendi a diferença entre Física (cabos) e Lógica (regras). Revisei Ponto-a-Ponto (P2P), Barramento (antiga, colisões), Estrela (moderna, Switch central) e Árvore (grande porte, sub-redes).
