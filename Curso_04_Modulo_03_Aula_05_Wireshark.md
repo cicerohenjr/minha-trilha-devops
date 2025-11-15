@@ -1,0 +1,1 @@
+Curso 4, Módulo 3, Aula 5: Aprendi a monitorar o tráfego de rede com o Wireshark. Instalei a ferramenta, iniciei uma captura na minha interface Ethernet e filtrei por "http" para ver os pacotes. Consegui ver as 4 camadas em ação (HTTP, TCP, IP, Ethernet).
