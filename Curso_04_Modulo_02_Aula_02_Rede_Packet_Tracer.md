@@ -1,0 +1,1 @@
+Curso 4, Módulo 2, Aula 2: Criei a minha primeira rede no Cisco Packet Tracer. Adicionei 3 PCs e 1 Hub, liguei-os com cabos diretos (Copper Straight Through) e configurei IPs estáticos (192.168.3.1, .2, .3) em cada um.
