@@ -1,0 +1,1 @@
+Curso 4, Módulo 2, Aula 13: Revisão (Faça como eu fiz). Pratiquei o ciclo completo do Módulo 2: Criei uma rede de 5 PCs e 1 Hub no Packet Tracer, liguei-os com cabos diretos, configurei IPs estáticos e testei a conectividade com `ping`.
