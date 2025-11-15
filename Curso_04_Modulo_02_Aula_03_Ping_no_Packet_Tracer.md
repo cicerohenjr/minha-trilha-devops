@@ -1,0 +1,1 @@
+Curso 4, Módulo 2, Aula 3: Testei a rede que criei no Packet Tracer. Usei o "ping 192.168.3.3" dentro do PC simulado. No modo simulação, vi os protocolos ICMP e ARP. Aprendi que o Hub é "burro" e usa broadcast (envia para todos), o que é ineficiente e inseguro.
