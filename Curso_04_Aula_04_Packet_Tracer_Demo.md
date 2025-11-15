@@ -1,0 +1,1 @@
+Curso 4, Módulo 1, Aula 4: Aprendi sobre o Cisco Packet Tracer, a ferramenta de simulação que usaremos. Vimos uma demonstração visual de como um "smartphone" se conecta a um "roteador wireless", que passa por "roteadores da internet" até chegar ao "home router" de destino.
