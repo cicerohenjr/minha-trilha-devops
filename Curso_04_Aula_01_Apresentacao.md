@@ -1,0 +1,1 @@
+Início do Curso 4: "Redes: dos conceitos iniciais à criação de uma intranet". O instrutor (Lucas Mata) apresentou o curso. Vamos usar um simulador de redes (Packet Tracer) para construir uma rede corporativa e aprender sobre DNS, DHCP e protocolos.
