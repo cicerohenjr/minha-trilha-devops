@@ -1,0 +1,1 @@
+Curso 4, Módulo 2 (Aula 15): O que aprendemos? Revisei todo o Módulo 2: Instalar e usar o Cisco Packet Tracer, construir uma rede (PC + Hub + Cabos), configurar IPs estáticos, testar com `ping` e consultar DNS com `nslookup`.
