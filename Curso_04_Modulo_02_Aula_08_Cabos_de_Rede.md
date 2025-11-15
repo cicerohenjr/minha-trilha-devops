@@ -1,0 +1,1 @@
+Curso 4, Módulo 2, Aula 8: Aprendi sobre os cabos de rede (RJ45). Entendi a diferença entre Cabo Direto (T568A, para PC-Hub) e Cabo Cruzado (Crossover/T568B, para PC-PC). O objetivo é sempre ligar os pinos de "Enviar" (1,2) aos de "Receber" (3,6).
