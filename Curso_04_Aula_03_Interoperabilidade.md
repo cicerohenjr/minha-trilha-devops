@@ -1,0 +1,1 @@
+Curso 4, Módulo 1, Aula 3: Aprendi o conceito-chave da internet: "Interoperabilidade". É a capacidade que dispositivos totalmente diferentes (hardware/software) têm de comunicar entre si usando os mesmos protocolos.
