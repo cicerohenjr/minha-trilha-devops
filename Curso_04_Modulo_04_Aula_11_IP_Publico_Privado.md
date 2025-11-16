@@ -1,0 +1,1 @@
+Curso 4, Módulo 4, Aula 11: Aprendi a diferença entre IP Público (o meu endereço na Internet, visto por sites externos) e IP Privado (o meu endereço na rede local/Wi-Fi, ex: 192.168.x.x). Pratiquei `ip a` (Linux) e `curl ifconfig.me`.
