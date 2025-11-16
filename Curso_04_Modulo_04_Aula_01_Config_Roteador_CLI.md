@@ -1,0 +1,1 @@
+Curso 4, Módulo 4, Aula 1: Substituí o Switch por um Roteador no Packet Tracer. Aprendi a aceder à CLI (Interface de Linha de Comando) do Roteador e a usar comandos Cisco (`enable`, `configure terminal`, `interface ...`) para ligar as portas (`no shutdown`) e atribuir IPs (`ip address ...`).
