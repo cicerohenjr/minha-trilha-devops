@@ -1,0 +1,1 @@
+Curso 4, Módulo 4, Aula 13: Revisão (Faça como eu fiz). Pratiquei a criação de novas redes no Packet Tracer, usando roteadores e switches para ligar redes diferentes e analisando os protocolos no modo de simulação.
