@@ -1,0 +1,1 @@
+Curso 4, Módulo 3, Aula 13: Aprendi sobre o Auto-MDIX. Entendi o que são interfaces MDI (PC) e MDIX (Switch) e como o Auto-MDIX (desde 2003) deteta o tipo de cabo (direto/cruzado) e ajusta-se automaticamente, tornando o cabo cruzado obsoleto.
