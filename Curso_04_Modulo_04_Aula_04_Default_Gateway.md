@@ -1,0 +1,1 @@
+Curso 4, Módulo 4, Aula 4: Aprendi o que é o Default Gateway (Portão de Saída). É o IP da porta do roteador, que permite ao PC enviar pacotes para fora da sua rede. Configurei o Gateway em todos os PCs no Packet Tracer e o `ping` entre redes diferentes funcionou!
