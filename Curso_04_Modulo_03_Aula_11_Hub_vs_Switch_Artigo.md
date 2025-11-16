@@ -1,0 +1,1 @@
+Curso 4, Módulo 3, Aula 11: Aprendi a fundo a diferença entre Hub e Switch. O Hub (Camada 1) é "burro", usa broadcast, causa colisões e é inseguro. O Switch (Camada 2) é "inteligente", aprende endereços MAC, cria caminhos diretos (unicast) e usa filas para evitar colisões.
