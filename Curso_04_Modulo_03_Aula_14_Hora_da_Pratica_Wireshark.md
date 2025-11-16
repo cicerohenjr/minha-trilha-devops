@@ -1,0 +1,1 @@
+Curso 4, Módulo 3, Aula 14: Hora da Prática. Pratiquei a análise de protocolos. Usei `nslookup` para encontrar IPs (DNS) e usei o Wireshark para capturar e analisar pacotes de `ping` (ICMP), `HTTPS` (TLS/SSL) e E-mail (SMTP/IMAP).
