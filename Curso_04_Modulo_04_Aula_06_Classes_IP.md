@@ -1,0 +1,1 @@
+Curso 4, Módulo 4, Aula 6: Aprendi sobre Endereçamento IP. Entendi o IPv4 (32 bits, 0-255) vs. IPv6 (128 bits). Aprendi as Classes A (255.0.0.0), B (255.255.0.0) e C (255.255.255.0), e os endereços reservados (Rede e Broadcast).
