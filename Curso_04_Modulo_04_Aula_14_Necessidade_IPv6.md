@@ -1,0 +1,1 @@
+Curso 4, Módulo 4, Aula 14: Aprendi sobre a necessidade do IPv6. O motivo é o esgotamento total dos endereços IPv4, o que impede o crescimento da internet (ex: empresas de hosting que não conseguem novos IPs).
