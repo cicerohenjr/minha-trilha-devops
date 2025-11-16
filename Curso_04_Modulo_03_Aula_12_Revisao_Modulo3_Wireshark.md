@@ -1,0 +1,1 @@
+Curso 4, Módulo 3, Aula 12: Revisão (Faça como eu fiz). Pratiquei o ciclo completo de análise de tráfego com o Wireshark: iniciei a captura, gerei tráfego (navegando) e filtrei por `http` para analisar os pacotes e as camadas de rede.
