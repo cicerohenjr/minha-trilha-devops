@@ -1,0 +1,1 @@
+Curso 4, Módulo 3, Aula 9: Aprendi o que é a Máscara de Sub-rede (ex: 255.255.255.0). Ela divide o IP em "Parte da Rede" (a rua) e "Parte do Host" (a porta). Provei no Packet Tracer que um Switch SÓ conecta PCs na mesma rede. Para redes diferentes, precisamos de um Roteador.
