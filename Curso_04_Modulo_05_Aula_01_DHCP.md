@@ -1,0 +1,1 @@
+Curso 4, Módulo 5, Aula 1: Aprendi a configurar um Roteador Cisco como Servidor DHCP. Criei uma nova topologia (PCs -> Switch -> Roteador). Usei a CLI do Roteador para criar um `ip dhcp pool` e definir os comandos `network` e `default-router`.
