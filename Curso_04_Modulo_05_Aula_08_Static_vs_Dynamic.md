@@ -1,0 +1,1 @@
+Curso 4, Módulo 5, Aula 8: Aprendi a diferença entre IP Estático e Dinâmico. IP Estático (manual) é para estabilidade (Servidores, Impressoras). IP Dinâmico (DHCP) é para utilizadores (PCs, Smartphones) pela facilidade e gestão eficiente de IPs.
