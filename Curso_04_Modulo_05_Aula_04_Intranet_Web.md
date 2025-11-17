@@ -1,0 +1,1 @@
+Curso 4, Módulo 5, Aula 4: Criei uma Intranet no Packet Tracer. Adicionei uma segunda rede (Servidor + Switch) ao Roteador. Configurei o Servidor com IP estático (9.0.255.255) e o serviço HTTP (editei o index.html). Testei o acesso com sucesso a partir de um PC da outra rede (192.168.3.x).
