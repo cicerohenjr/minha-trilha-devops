@@ -1,0 +1,1 @@
+Curso 4, Módulo 5, Aula 6: Configurei um Servidor DNS no Packet Tracer. Dei-lhe um IP estático (9.0.9.9) e criei um registo (www.fabrica.com -> 9.0.255.255). A chave foi atualizar o DHCP Pool no Roteador (com `dns-server 9.0.9.9`) para que os PCs o encontrassem.
