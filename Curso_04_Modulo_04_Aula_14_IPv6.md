@@ -1,0 +1,1 @@
+Curso 4, Módulo 4, Aula 14: Aprendi sobre o IPv6. Entendi que ele usa 128 bits (vs 32 do IPv4) e formato hexadecimal. Aprendi as regras de abreviação (omitir zeros à esquerda e o `::` para blocos de zeros, usado só uma vez). Também vi que ele usa CIDR (/64) em vez de máscara de sub-rede.
