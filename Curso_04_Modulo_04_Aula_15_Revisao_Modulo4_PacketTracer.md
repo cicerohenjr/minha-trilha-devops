@@ -1,0 +1,1 @@
+Curso 4, Módulo 4, Aula 15: Revisão (Hora da Prática). Construí a rede final do módulo no Packet Tracer (1 Roteador, 3 PCs em 3 redes diferentes). Configurei os IPs nas portas do roteador (via CLI) e, o mais importante, configurei o Default Gateway em cada PC. O `ping` entre redes funcionou.
