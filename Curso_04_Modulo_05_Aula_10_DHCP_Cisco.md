@@ -1,0 +1,1 @@
+Curso 4, Módulo 5, Aula 10: Revisei os comandos da CLI da Cisco para configurar um Roteador como Servidor DHCP. Aprendi o comando `ip dhcp excluded-address [IP]` para reservar IPs estáticos (como o do servidor e o do gateway) e evitar conflitos.
