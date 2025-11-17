@@ -1,0 +1,1 @@
+Curso 4, Módulo 5, Aula 9: Revisão (Faça como eu fiz). Pratiquei a criação da rede final no Packet Tracer, revendo a configuração do Roteador como Servidor DHCP (ip dhcp pool) e a configuração do Servidor DNS (mapeando nome para IP).
