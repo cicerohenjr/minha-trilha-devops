@@ -1,0 +1,1 @@
+Curso 4, Módulo 5, Aula 11: Revisão (Hora da Prática). Pratiquei a rede final do Módulo 5 no Packet Tracer: uma rede híbrida com PCs (DHCP) e Servidores (Estáticos) em redes separadas, ligados por um Roteador. Configurei os serviços de HTTP (Web) e DNS, e testei o acesso com sucesso usando o nome (http://intranet.com).
