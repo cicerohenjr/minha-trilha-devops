@@ -1,0 +1,1 @@
+Curso 4, Módulo 5 (Aula 12): O que aprendemos? Revisei todo o Módulo 5: DHCP (atribuição automática de IP), Servidores Web (HTTP) e Servidores DNS (mapeamento de nome para IP) para construir uma intranet.
