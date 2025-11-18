@@ -1,0 +1,1 @@
+Início do Curso 5: "Redes: construindo um projeto com VLANs, políticas de acesso e conexão com internet". O projeto será construir a rede do "Instituto Inovae", aprendendo sobre VLANs, Redundância (STP), Alocação de IPs (Sub-redes), Listas de Acesso (ACLs) e NAT.
