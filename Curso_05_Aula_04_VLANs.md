@@ -1,0 +1,1 @@
+Curso 5, Módulo 1, Aula 4: Aprendi a configurar VLANs (Redes Locais Virtuais) num Switch Cisco. Usei a CLI para criar `vlan 10` (pesquisa) e `vlan 20` (admin). Configurei as portas do PC com `switchport mode access` e a ligação entre switches com `switchport mode trunk`.
