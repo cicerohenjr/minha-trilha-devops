@@ -1,0 +1,1 @@
+Curso 5, Módulo 1, Aula 6: Aprendi sobre o DTP (Dynamic Trunking Protocol) da Cisco. Entendi que é um protocolo que negoceia "trunks" automaticamente, como alternativa aos comandos manuais `switchport mode access` (para PCs) e `switchport mode trunk` (para switches).
