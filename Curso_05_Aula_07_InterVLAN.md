@@ -1,0 +1,1 @@
+Curso 5, Módulo 1, Aula 7: Aprendi a conectar VLANs (Roteamento Inter-VLAN). Usei um Roteador e criei Subinterfaces (ex: `Fa0/0.1`). Configurei o `encapsulation dot1Q 10` para "etiquetar" o tráfego da VLAN e atribuí um IP (`192.168.10.1`) a essa subinterface, que serviu de Gateway. Também configurei o Roteador como Servidor DHCP para cada VLAN.
