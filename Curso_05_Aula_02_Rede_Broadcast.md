@@ -1,0 +1,1 @@
+Curso 5, Módulo 1, Aula 2: Criei uma rede com 4 PCs e 2 Switches no Packet Tracer (ligados com Cabo Cruzado). Embora o `ping` tenha funcionado, a análise no Modo Simulação mostrou que o tráfego ARP (broadcast) inundou a rede. Concluí que esta topologia não é escalável para 600 PCs.
