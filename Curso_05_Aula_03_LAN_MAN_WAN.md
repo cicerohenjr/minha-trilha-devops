@@ -1,0 +1,1 @@
+Curso 5, Módulo 1, Aula 3: Aprendi a classificar redes pela escala: LAN (Local Area Network - ex: 1 edifício), MAN (Metropolitan Area Network - ex: 1 cidade ou campus) e WAN (Wide Area Network - ex: países, a Internet).
