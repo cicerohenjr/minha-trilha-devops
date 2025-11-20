@@ -1,0 +1,1 @@
+Curso 5, Módulo 3, Aula 1: Adicionei uma VLAN 30 (Servidores) e configurei o roteamento para ela. Aprendi a diferença entre TCP (confiável, usado em HTTP) e UDP (rápido, usado em streaming), preparando o terreno para criar filtros de segurança (ACLs).
