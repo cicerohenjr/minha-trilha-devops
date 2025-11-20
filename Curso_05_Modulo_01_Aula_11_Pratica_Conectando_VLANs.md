@@ -1,0 +1,1 @@
+Curso 5, Módulo 1, Aula 11: Revisão (Faça como eu fiz). Pratiquei a conexão entre VLANs. Configurei um Roteador com Subinterfaces (`encapsulation dot1Q`) para atuar como Gateway de múltiplas VLANs e configurei múltiplos Pools DHCP para distribuir IPs para cada segmento.
