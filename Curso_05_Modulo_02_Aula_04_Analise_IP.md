@@ -1,0 +1,1 @@
+Curso 5, Módulo 2, Aula 4: Aprendi a analisar a capacidade de endereçamento IP. Entendi que a Classe C (254 hosts) é insuficiente para o projeto e a Classe B (65.534 hosts) é ineficiente. Aprendi a relação entre bits, octetos e números decimais.
