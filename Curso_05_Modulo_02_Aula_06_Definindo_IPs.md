@@ -1,0 +1,1 @@
+Curso 5, Módulo 2, Aula 6: Aprendi sobre a definição de IPs. Revisei a estrutura Rede/Host nas Classes A e B. Aprendi o conceito de "IPv4-mapeado em IPv6", onde o IP decimal (172.16.0.1) é convertido para Hexadecimal (AC10:0001) e anexado ao prefixo IPv6.
