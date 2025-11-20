@@ -1,0 +1,1 @@
+Curso 5, Módulo 2, Aula 5 (Prática): Implementei as sub-redes eficientes no Packet Tracer. Reconfigurei o DHCP e as Subinterfaces do Roteador para usar a rede `172.16.0.0/23`, dividindo-a em `172.16.0.0` (VLAN 10) e `172.16.2.0` (VLAN 20).
