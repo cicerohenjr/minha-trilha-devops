@@ -1,0 +1,1 @@
+Curso 5, Módulo 2, Aula 2: Aprofundei o conceito de STP. Entendi que Loops de Rede (causados por redundância física) podem paralisar a rede. O STP resolve isto bloqueando logicamente as portas redundantes e ativando-as apenas em caso de falha.
