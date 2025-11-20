@@ -1,0 +1,1 @@
+Curso 5, Módulo 1 (Aula 13): O que aprendemos? Revisei todo o Módulo 1: Conceito de VLANs, configuração de portas (Access vs Trunk), criação de VLANs no Switch e configuração de Roteamento Inter-VLAN com Subinterfaces (dot1q).
