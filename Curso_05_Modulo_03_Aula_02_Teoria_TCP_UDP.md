@@ -1,0 +1,1 @@
+Curso 5, Módulo 3, Aula 2: Aprendi a teoria de TCP vs UDP. O TCP é orientado à conexão e confiável (Web, E-mail). O UDP é sem conexão e rápido (Streaming, Jogos). Esta distinção é crucial para configurar firewalls.
