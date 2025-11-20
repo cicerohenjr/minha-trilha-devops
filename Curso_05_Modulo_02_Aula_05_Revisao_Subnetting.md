@@ -1,0 +1,1 @@
+Curso 5, Módulo 2, Aula 5 (Revisão): Implementei sub-redes eficientes no Packet Tracer. Configurei a máscara `/23` (255.255.254.0) no DHCP e nas interfaces do Roteador, criando redes otimizadas para 510 hosts (172.16.0.0 e 172.16.2.0).
