@@ -1,0 +1,1 @@
+Curso 5, Módulo 3, Aula 4: Revisão (Faça como eu fiz). Adicionei um Servidor Web à rede numa nova VLAN (30). Configurei os switches, criei a subinterface no roteador (Gateway 172.16.4.1) e configurei o servidor com IP estático. Testei o acesso via browser.
