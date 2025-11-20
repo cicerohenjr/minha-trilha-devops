@@ -1,0 +1,1 @@
+Curso 5, Módulo 2, Aula 3: Revisão (Faça como eu fiz). Pratiquei a criação de redundância. Adicionei um terceiro Switch em anel, configurei as VLANs 10 e 20 nele e confiei no DTP para configurar os Trunks. Observei o STP a bloquear o loop.
