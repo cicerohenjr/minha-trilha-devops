@@ -1,0 +1,1 @@
+Curso 5, Módulo 1, Aula 10: Revisão (Faça como eu fiz). Pratiquei a criação de VLANs (10 e 20) e a atribuição de portas (`switchport access vlan X`). Testei o isolamento com o `ping`. Observei o DTP a configurar o Trunk automaticamente entre os switches.
