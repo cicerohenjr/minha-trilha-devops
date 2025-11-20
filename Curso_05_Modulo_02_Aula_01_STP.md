@@ -1,0 +1,1 @@
+Curso 5, Módulo 2, Aula 1: Aprendi sobre Redundância de Links e o protocolo STP (Spanning Tree Protocol). Entendi que criar loops na rede (para segurança) pode causar tempestades de broadcast, e que o STP resolve isso bloqueando portas redundantes automaticamente até que sejam necessárias. Aprendi o comando `show spanning-tree`.
