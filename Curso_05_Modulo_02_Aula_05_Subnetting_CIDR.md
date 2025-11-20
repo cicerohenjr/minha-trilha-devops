@@ -1,0 +1,1 @@
+Curso 5, Módulo 2, Aula 5: Aprendi a criar sub-redes eficientes (Subnetting). Entendi que para 400 hosts preciso de 9 bits de host (2^9 = 512). Isso resulta numa máscara /23 (32-9), que é 255.255.254.0. Adeus classes padrão!
