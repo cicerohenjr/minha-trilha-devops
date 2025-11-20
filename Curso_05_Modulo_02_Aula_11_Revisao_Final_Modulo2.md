@@ -1,0 +1,1 @@
+Curso 5, Módulo 2, Aula 11: Revisão (Hora da Prática). Consolidei a Redundância (criando um anel de switches gerido pelo STP) e o Subnetting Eficiente (calculando uma máscara /23 para suportar 450 hosts por setor: 172.16.0.0, .2.0, .4.0).
