@@ -1,0 +1,1 @@
+Curso 5, Módulo 1, Aula 12: Hora da Prática. Construí uma rede com 3 departamentos usando VLANs. Configurei Switches (Access/Trunk) e implementei roteamento Inter-VLAN com um Roteador (Router-on-a-Stick) e subinterfaces.
