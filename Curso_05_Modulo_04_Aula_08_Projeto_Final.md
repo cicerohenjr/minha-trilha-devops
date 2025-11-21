@@ -1,0 +1,1 @@
+Curso 5, Módulo 4, Aula 8: Projeto Final. Baixei e guardei o projeto do Cisco Packet Tracer com a rede completa do Instituto Inovae (VLANs, NAT, DHCP, DNS) para usar como base no próximo curso de Redes.
