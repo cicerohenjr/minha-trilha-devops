@@ -1,0 +1,1 @@
+Curso 5, Módulo 4, Aula 3: Configuração do Provedor (WAN). Aprendi a calcular uma sub-rede /30 (255.255.255.252) para conexões ponto-a-ponto (apenas 2 IPs úteis). Configurei as interfaces Seriais dos roteadores com estes IPs e testei a conectividade com `ping`.
