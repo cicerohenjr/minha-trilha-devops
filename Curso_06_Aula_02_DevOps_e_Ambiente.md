@@ -1,0 +1,1 @@
+Curso 6, Módulo 1, Aula 2: Aprendi o conceito de DevOps (união de Dev + Ops para colaboração e automação). O curso sugere VirtualBox, mas validei que o meu ambiente WSL (Ubuntu) já atende perfeitamente aos requisitos para aprender Linux e Shell Script.
