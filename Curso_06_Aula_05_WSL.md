@@ -1,0 +1,1 @@
+Curso 6, Módulo 1, Aula 5: Aula sobre WSL. O curso confirmou que o WSL é a alternativa recomendada ao VirtualBox para evitar lentidão. O meu ambiente de estudos já é baseada em WSL (Ubuntu), garantindo compatibilidade total.
