@@ -1,0 +1,1 @@
+Curso 5, Módulo 3, Aula 8: Revisão (Faça como eu fiz). Implementei a ACL "gerencial" no Roteador. Configurei IPs estáticos para a chefia, excluí esses IPs do DHCP e apliquei as regras de filtro (`permit tcp`, `permit ip any any`) nas subinterfaces com `ip access-group`.
