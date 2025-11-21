@@ -1,0 +1,1 @@
+Curso 5, Módulo 4, Aula 7: Revisão (Faça como eu fiz). Implementei a conexão WAN e o NAT no Packet Tracer. Adicionei interfaces Seriais, configurei IPs públicos /30 e ativei o NAT Overload (PAT) para permitir que a rede interna (172.16.0.0/16) aceda à Internet através do IP público 150.1.1.1.
