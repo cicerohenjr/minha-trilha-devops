@@ -1,0 +1,1 @@
+Curso 5, Módulo 4, Aula 9: Hora da Prática (NAT e WAN). Configurei a conexão com o ISP no Packet Tracer. Usei uma sub-rede /30 para o link WAN e configurei NAT Overload (PAT) no roteador da empresa para permitir que os departamentos internos acedam à rede externa.
