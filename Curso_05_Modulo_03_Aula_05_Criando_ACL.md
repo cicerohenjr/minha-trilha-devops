@@ -1,0 +1,1 @@
+Curso 5, Módulo 3, Aula 5: Aprendi a criar uma ACL (Access Control List) Estendida no Roteador. Usei `ip access-list extended` para definir regras: `permit tcp` para IPs específicos (Gerência) e `deny tcp` para os outros. Entendi que a lista é lida sequencialmente.
