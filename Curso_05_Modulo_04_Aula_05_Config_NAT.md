@@ -1,0 +1,1 @@
+Curso 5, Módulo 4, Aula 5: Aprendi a configurar NAT (Network Address Translation) para permitir o acesso à Internet. Criei uma ACL para definir o tráfego interno, defini as interfaces `inside` e `outside`, e ativei o NAT com `overload` (PAT) para partilhar o único IP público.
