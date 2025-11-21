@@ -1,0 +1,1 @@
+Curso 6, Módulo 1, Aula 7: Aprendi que o Linux é o Kernel (núcleo) e que as Distros (Ubuntu) são o sistema completo. Entendi o protocolo SSH para acesso remoto. No WSL, usei `ip address` para ver a rede e `ls` para listar arquivos.
