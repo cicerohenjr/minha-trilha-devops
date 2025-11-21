@@ -1,0 +1,1 @@
+Curso 5, Módulo 4, Aula 1: Iniciei a conexão com a Internet. Adicionei um Roteador ISP e conectei-o ao meu Roteador principal usando placas Seriais (WIC-1T) e cabo Serial DCE. Aprendi o comando `write` para salvar a configuração do roteador antes de o desligar.
