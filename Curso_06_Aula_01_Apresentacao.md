@@ -1,0 +1,1 @@
+Início do Curso 6: "DevOps: explorando conceitos, comandos e scripts no Linux CLI". O foco será unir a cultura DevOps com a prática de Linux, criando scripts de automação, backups e gerindo servidores web.
