@@ -1,0 +1,1 @@
+Curso 5, Módulo 3, Aula 7: Aprendi a aplicar ACLs. Criei a lista na aula anterior, mas ela só funcionou quando usei `ip access-group gerencial in` nas subinterfaces do roteador. Verifiquei que o tráfego HTTP foi bloqueado para não autorizados, mas o Ping continua a funcionar.
