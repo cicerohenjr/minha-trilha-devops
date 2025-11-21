@@ -1,0 +1,1 @@
+Curso 6, Módulo 1, Aula 4: Aula sobre instalação do Ubuntu Server no VirtualBox. Como uso WSL, pulei a instalação, mas verifiquei os recursos do meu sistema (RAM, CPU, Disco) para garantir que atendem aos requisitos do curso.
