@@ -1,0 +1,1 @@
+Curso 5, Módulo 3, Aula 9: Hora da Prática (ACLs Avançadas). Criei um cenário com 3 departamentos e 3 servidores dedicados. Implementei ACLs Estendidas para garantir o isolamento total: cada departamento só consegue aceder ao seu próprio servidor, tendo o acesso bloqueado aos servidores dos outros departamentos.
