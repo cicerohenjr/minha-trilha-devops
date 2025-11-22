@@ -1,0 +1,1 @@
+Curso 6, Módulo 4, Aula 1: Aprendi a criar scripts multitarefa com `case`. O script pede uma operação (`read`) e usa `case "$operacao" in` para decidir se executa a compactação (`tar -czf`) ou a descompactação (`tar -xzf`).
