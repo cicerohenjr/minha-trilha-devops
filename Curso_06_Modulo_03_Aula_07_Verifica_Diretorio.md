@@ -1,0 +1,1 @@
+Curso 6, Módulo 3, Aula 7: Mãos na Massa. Criei um script interativo que usa `read -p` para pedir dados ao utilizador e o operador condicional `-d` para verificar se o caminho fornecido é um diretório válido.
