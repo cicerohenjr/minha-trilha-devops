@@ -1,0 +1,1 @@
+Curso 6, Módulo 6, Aula 10: Carreira em DevOps. Assisti à mesa redonda com especialistas da FIAP. Aprendi sobre a importância do portfólio no GitHub, as ferramentas essenciais (CI/CD, Terraform, Cloud, Docker) e a importância de gerir custos (Budgets) ao estudar Cloud.
