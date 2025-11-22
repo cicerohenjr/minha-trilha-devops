@@ -1,0 +1,1 @@
+Curso 6, Módulo 5, Aula 1: Criei um script de monitoramento. Usei `pgrep` para verificar se o processo Nginx está ativo e `&> /dev/null` para silenciar a saída dentro do `if`. O script reporta o status com data e hora.
