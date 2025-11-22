@@ -1,0 +1,1 @@
+Curso 6, Módulo 5, Aula 3: Revisei os fundamentos de processamento de texto. Pratiquei o uso do `grep` com opções `-i` (case insensitive) e `-c` (count), e o uso do Pipe (`|`) para encadear comandos e filtrar saídas.
