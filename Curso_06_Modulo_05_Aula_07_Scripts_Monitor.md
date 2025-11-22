@@ -1,0 +1,1 @@
+Curso 6, Módulo 5, Aula 7: Hora da Prática. Criei scripts para monitorar recursos (`ps --sort`), verificar processos (`pgrep`) e analisar logs (`tail/grep`). Preparei um script de log de erros para ser agendado no `cron`.
