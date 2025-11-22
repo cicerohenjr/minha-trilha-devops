@@ -1,0 +1,1 @@
+Curso 6, Módulo 4, Aula 6: Mãos na Massa. Criei um script para converter imagens em lote (Batch Processing). Usei `for` para iterar sobre arquivos `.jpg`, manipulação de strings `${var%.jpg}.png` para renomear e o comando `convert` (do ImageMagick) para realizar a conversão.
