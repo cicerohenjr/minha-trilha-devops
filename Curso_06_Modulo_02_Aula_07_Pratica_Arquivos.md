@@ -1,0 +1,1 @@
+Curso 6, Módulo 2, Aula 7: Hora da Prática. Executei tarefas de manipulação de arquivos: criar diretórios (`mkdir`), criar arquivos vazios (`touch`), escrever (`>`) e anexar conteúdo (`>>`), e ler arquivos (`cat`).
