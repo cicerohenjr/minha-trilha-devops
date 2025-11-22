@@ -1,0 +1,1 @@
+Curso 6, Módulo 1, Aula 9: Revisão (Faça como eu fiz). O meu ambiente de estudos é o WSL (Ubuntu), dispensando a instalação do VirtualBox. Validei a versão do Bash e atualizei os pacotes (`apt update`) para garantir que o sistema está pronto para as práticas de DevOps.
