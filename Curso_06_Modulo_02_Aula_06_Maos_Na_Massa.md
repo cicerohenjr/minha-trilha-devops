@@ -1,0 +1,1 @@
+Curso 6, Módulo 2, Aula 6: Mãos na Massa. Pratiquei a manipulação de arquivos entre diretórios. Criei pastas (`mkdir`), arquivos (`touch`), copiei conteúdo (`cp -r dir1/* dir2`) e movi conteúdo (`mv dir1/* dir3`).
