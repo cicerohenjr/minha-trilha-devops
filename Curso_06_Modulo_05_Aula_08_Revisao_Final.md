@@ -1,0 +1,1 @@
+Curso 6, Módulo 5 (Aula 8): O que aprendemos? Revisei todo o Módulo 5: Monitoramento de processos (`ps`, `pgrep`), processamento de texto (`grep`, `|`) e agendamento de tarefas com `cron` (`crontab`).
