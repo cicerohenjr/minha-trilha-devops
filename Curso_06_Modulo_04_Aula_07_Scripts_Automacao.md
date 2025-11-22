@@ -1,0 +1,1 @@
+Curso 6, Módulo 4, Aula 7: Hora da Prática. Desenvolvi 5 scripts de automação: atualização de sistema (`apt`), renomeação em lote (`for/mv`), criação de utilizadores (`useradd`), monitoramento de disco (`df/awk`) e backup datado (`tar/date`).
