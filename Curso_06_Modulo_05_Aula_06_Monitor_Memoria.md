@@ -1,0 +1,1 @@
+Curso 6, Módulo 5, Aula 6: Mãos na Massa. Criei um script para monitorar consumo de memória. Usei `ps -e -o pid,%mem --sort=-%mem` para listar os processos mais pesados e `head -n 16` para pegar o Top 15. Aprendi a sintaxe `*/5` no cron para rodar a cada 5 minutos.
