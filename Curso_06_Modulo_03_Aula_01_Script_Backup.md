@@ -1,0 +1,1 @@
+Curso 6, Módulo 3, Aula 1: Criei o meu primeiro Shell Script (`backup.sh`). Aprendi a usar o shebang (`#!/bin/bash`), criar variáveis, usar `$(date ...)` para gerar nomes de ficheiros dinâmicos e automatizar a compactação com `tar`.
