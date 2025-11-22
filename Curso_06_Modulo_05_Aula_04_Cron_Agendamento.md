@@ -1,0 +1,1 @@
+Curso 6, Módulo 5, Aula 4: Aprendi a agendar tarefas com `cron`. Usei `crontab -e` para configurar o script de monitoramento para rodar a cada minuto (`* * * * *`) e redirecionei a saída (`>>`) para um arquivo de log para criar um histórico.
