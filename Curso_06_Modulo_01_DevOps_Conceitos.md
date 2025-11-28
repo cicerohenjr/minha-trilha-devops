@@ -1,0 +1,1 @@
+Curso 6, Módulo 1: Introdução ao DevOps. Aprendi que DevOps é uma cultura de união entre Dev e Ops. Preparei o ambiente (WSL/Ubuntu), entendi o que são Distros Linux e como usar SSH para acesso remoto.

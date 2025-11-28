@@ -1,0 +1,1 @@
+Curso 6, Módulo 5: Monitoramento e Cron. Criei scripts para monitorar processos (`ps`, `top`, `pgrep`) e recursos do sistema. Aprendi a agendar tarefas recorrentes com o `cron` (`crontab`) para garantir que a manutenção aconteça automaticamente.

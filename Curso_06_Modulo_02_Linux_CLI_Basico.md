@@ -1,0 +1,1 @@
+Curso 6, Módulo 2: Comandos Essenciais. Dominei a navegação no terminal (`cd`, `ls`, `pwd`) e a manipulação de arquivos (`touch`, `nano`, `cp`, `mv`, `rm`, `tar`). A base para qualquer administrador de sistemas.

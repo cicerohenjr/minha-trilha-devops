@@ -1,0 +1,1 @@
+Curso 6, Módulo 3: Automação com Shell Script. Criei scripts para automatizar backups. Aprendi a usar variáveis, parâmetros (`$1`), condicionais (`if`, `case`) e loops (`for`) para tornar os scripts inteligentes e interativos.

@@ -1,0 +1,1 @@
+Curso 6, Módulo 4: Serviços e Infraestrutura. Instalei e configurei o servidor web Nginx. Criei scripts avançados de manutenção (atualização do sistema, criação de usuários) e ferramentas de conversão de arquivos em lote.

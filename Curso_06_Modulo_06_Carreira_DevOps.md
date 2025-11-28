@@ -1,0 +1,1 @@
+Curso 6, Módulo 6: Carreira em DevOps. Finalizei a trilha com uma visão de mercado, entendendo as soft skills necessárias, a importância do portfólio e as principais ferramentas do ecossistema (Cloud, CI/CD, IaC, Containers).
